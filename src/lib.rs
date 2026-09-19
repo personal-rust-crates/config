@@ -1,3 +1,4 @@
+pub use my_derive::ConfigTag;
 pub mod config_tag;
 pub mod wrapper;
 
